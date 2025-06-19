@@ -128,6 +128,6 @@ library-management-system/
 
 ## 📄 Giấy phép
 
-Dự án này được phát hành dưới giấy phép MIT. Xem file `LICENSE` để biết thêm chi tiết.
+Dự án này được phát hành dưới giấy phép MIT.
 
 ---
