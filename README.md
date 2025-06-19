@@ -6,7 +6,7 @@ Hệ thống quản lý thư viện được phát triển bằng Java với MyS
 
 - **Java Development Kit (JDK)**: 22 hoặc cao hơn
 - **MySQL Server**: 8.0 hoặc cao hơn
-- **IDE**: Visual Studio Code (khuyến nghị) hoặc IDE Java khác
+- **IDE**: Visual Studio Code (khuyến nghị vì đây là hướng dẫn chạy trên vscode :))) hoặc IDE Java khác
 - **Hệ điều hành**: Windows 10/11
 
 ## 🚀 Hướng dẫn cài đặt
