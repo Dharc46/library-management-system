@@ -37,7 +37,7 @@ Hệ thống quản lý thư viện được phát triển bằng Java với MyS
 ### Bước 3: Cấu hình kết nối Database
 
 1. Mở file `/dao/DatabaseConnection.java`
-2. Cập nhật thông tin kết nối:
+2. Cập nhật thông tin kết nối trong file DatabaseConnection.java:
    ```java
    private static final String URL = "jdbc:mysql://localhost:3306/library?useSSL=false&serverTimezone=UTC";
    private static final String USERNAME = "root";
